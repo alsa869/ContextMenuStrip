@@ -1,0 +1,16 @@
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.Form1.resources
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.AssemblyInfoInputs.cache
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.AssemblyInfo.cs
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\bin\Debug\net8.0-windows\ContextMenuStrip.exe
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\bin\Debug\net8.0-windows\ContextMenuStrip.deps.json
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\bin\Debug\net8.0-windows\ContextMenuStrip.runtimeconfig.json
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\bin\Debug\net8.0-windows\ContextMenuStrip.dll
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\bin\Debug\net8.0-windows\ContextMenuStrip.pdb
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.dll
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\refint\ContextMenuStrip.dll
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.pdb
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ContextMenuStrip.genruntimeconfig.cache
+C:\Users\alex_\source\repos\ContextMenuStrip\ContextMenuStrip\obj\Debug\net8.0-windows\ref\ContextMenuStrip.dll
